@@ -2668,7 +2668,7 @@ section.header .white-wrap {
     z-index: 50;
     right: 0px;
     height: 350px;
-    top: 30%;
+    top: 25%;
     background-color: rgba(33, 33, 33, 0.2);
     padding: 0px;
 }
@@ -2710,7 +2710,7 @@ section.header .main-wrap {
 
 section.header .main-wrap {
     height: 350px;
-    top: 30%;
+    top: 25%;
     position: absolute;
     z-index: 20;
 }
@@ -2968,7 +2968,7 @@ section.header .owl-theme .owl-controls .owl-pagination .owl-page:hover {
     }
     section.header .white-wrap {
         height: 300px;
-        top: 30%;
+        top: 25%;
     }
     section.header .white-box {
         height: 300px;
@@ -2977,7 +2977,7 @@ section.header .owl-theme .owl-controls .owl-pagination .owl-page:hover {
     }
     section.header .main-wrap {
         height: 300px;
-        top: 30%;
+        top: 25%;
     }
     section.header .main-wrap h1 {
         line-height: 80px;
@@ -3927,7 +3927,7 @@ section.header .container .menu-mobile.open ul.menu {
     height: auto;
     background: #212121;
     color: #cccccc;
-    top: 30%;
+    top: 25%;
     left: 0px;
     z-index: 99999;
     display: inline-block;
