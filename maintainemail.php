@@ -1,6 +1,6 @@
 <?php
 $to = "email@example.com";
-$subject = "Shipping - Logistics & Transport HTML Template";
+$subject = "Website Contact";
 $message = "Name:<br>".$_POST["name"]."<br><br>Email:<br>".$_POST["email"].""."<br><br>Message:<br>".$_POST["msg"];
 $from = $_POST["email"];
 $headers = "MIME-Version: 1.0" . "\r\n";

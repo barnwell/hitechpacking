@@ -5,3 +5,7 @@
 section.header .topbar .menu .primary{
     text-align: right;
 }
+
+.inviewport{
+  opacity: 1;
+}
