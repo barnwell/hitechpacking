@@ -9,3 +9,32 @@ section.header .topbar .menu .primary{
 .inviewport{
   opacity: 1;
 }
+
+section.header .box-heading{
+  font-size: 24px;
+  line-height: 48px;
+  text-align: left;
+  text-transform: none;
+  padding-bottom: 48px;
+}
+section.header .box-heading p{
+  font-size: 18px;
+  line-height: 24px;
+}
+
+section.header .box-heading a, section.header .box-heading a:hover{
+  color: #3b5998;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.whoweare-pic img {
+  margin-top: -150px;
+}
+.whoweare-info{
+  margin-top: -50px;
+}
+
+section .headul{
+  margin-top: 0;
+}
